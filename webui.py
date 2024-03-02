@@ -78,7 +78,7 @@ def generate_clicked(*args):
 
 reload_javascript()
 
-title = f'Fooocus {fooocus_version.version}'
+title = f'Contribution mera hi hia siddy bkl'
 
 if isinstance(args_manager.args.preset, str):
     title += ' ' + args_manager.args.preset
